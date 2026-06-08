@@ -1,4 +1,4 @@
-const CACHE_NAME = 'sprint-tracker-v5';
+const CACHE_NAME = 'sprint-tracker-v1';
 const ASSETS = ['/', '/bundle.js', '/manifest.json'];
 
 self.addEventListener('install', e => {
